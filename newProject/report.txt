@@ -1,0 +1,16 @@
+
+J. Product Comparison Report
+===============================
+
+Products scraped: 331
+New products: 3
+ → Product IDs: ['416454', '417919', '424932']
+
+Price increased: 1
+ → Product IDs: ['427767']
+
+Price decreased: 1
+ → Product IDs: ['428670']
+
+Out of stock: 0
+ → Product IDs: []
